@@ -1,9 +1,9 @@
 import './TodoList.css';
 
-function TodoList({childrens}) {
+function TodoList({children}) {
     return (
     <ul className="Todolist">
-        {childrens}
+        {children}
     </ul>
     );
 }
