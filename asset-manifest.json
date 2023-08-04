@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.37d93b6c.css",
+    "main.js": "./static/js/main.41264e6d.js",
+    "static/media/FondoApp.png": "./static/media/FondoApp.57bf520d6b2cbeffa2bd.png",
+    "index.html": "./index.html",
+    "static/media/delete.svg": "./static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "./static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.37d93b6c.css.map": "./static/css/main.37d93b6c.css.map",
+    "main.41264e6d.js.map": "./static/js/main.41264e6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d93b6c.css",
+    "static/js/main.41264e6d.js"
+  ]
+}
