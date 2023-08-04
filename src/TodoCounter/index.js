@@ -9,16 +9,18 @@ function TodoCounter() {
   } = React.useContext(TodoContext);
     
     return (
-    totalTodos == completedTodos ?
+
+      totalTodos == completedTodos ?
+
+      <h1 className='TodoCounter'>Felicidades, completaste tus pendientes!</h1>
+
+:
 
       <h1 className='TodoCounter'>
         Has completado <span className='TodoQuantity'>{completedTodos}</span> de <span className='TodoQuantity'>{totalTodos}</span> Pendientes!
       </h1>
-
-      :
-
-      <h1 className='TodoCounter'>Felicidades, completaste tus pendientes!</h1>
-    );
+      
+    )
 }
 
 export { TodoCounter }; 
